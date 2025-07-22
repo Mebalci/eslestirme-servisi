@@ -48,20 +48,3 @@ Yeni bir eşya verisi ile mevcut adaylar arasında en uygun eşleşmeleri döner
     }
   ]
 }
-
-#### Dönen Yanıt
-
-[
-  {
-    "skor": 0.87,
-    "esya": {
-      "sehir": "Ankara",
-      "ilce": "Çankaya",
-      "mahalle": "Bahçelievler",
-      "esya": "telefon",
-      "marka": "Samsung",
-      "model": "S20",
-      "renk": "siyah"
-    }
-  }
-]
